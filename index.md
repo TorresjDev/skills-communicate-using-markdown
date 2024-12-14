@@ -13,3 +13,14 @@
 
 <!-- How to add an image-->
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+<!-- How to add an code examples-->
+### Code example using git bash
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+### Code example using javascript
+``` javascript
+var myVar = "Hello, world!";
+```
